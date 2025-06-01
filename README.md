@@ -1,0 +1,1 @@
+# genai-tcauto-jira-adaptor
